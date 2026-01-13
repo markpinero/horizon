@@ -28,6 +28,8 @@
     "products": "Products",
     "product_list": "Featured collection",
     "other_sections": "Other",
+    // Category for trust signals and social proof sections
+    "social_proof": "Social proof",
     "storytelling": "Storytelling",
     "text": "Text"
   },
@@ -383,6 +385,7 @@
     "product_recommendations": "Recommended products",
     "product_sku": "SKU",
     "product_review_stars": "Review stars",
+    "yotpo_reviews": "Yotpo Reviews",
     "product_variant_picker": "Variant picker",
     "products_carousel": "Featured collection: Carousel",
     "products_editorial": "Featured collection: Editorial",

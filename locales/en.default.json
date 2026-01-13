@@ -355,5 +355,52 @@
       "default_title": "Default Title",
       "sticky_add_to_cart": "Quick add to cart bar"
     }
+  },
+  "yotpo_reviews": {
+    "title": "Customer Reviews",
+    "write_review": "Write a Review",
+    "cancel": "Cancel",
+    "loading": "Loading reviews...",
+    "no_reviews": "No reviews yet. Be the first to write a review!",
+    "review_count": {
+      "one": "{{ count }} Review",
+      "other": "{{ count }} Reviews"
+    },
+    "star_filter": "Filter by {{ star }} star reviews",
+    "clear_filter": "Clear filter",
+    "no_results": "No reviews match your filter.",
+    "sort_by": "Sort by",
+    "sort_newest": "Most Recent",
+    "sort_oldest": "Oldest First",
+    "sort_highest": "Highest Rated",
+    "sort_lowest": "Lowest Rated",
+    "sort_helpful": "Most Helpful",
+    "showing": "Showing {{ start }}-{{ end }} of {{ total }}",
+    "verified_buyer": "Verified Buyer",
+    "helpful_question": "Was this helpful?",
+    "store_response": "Store Response",
+    "pagination_previous": "Previous",
+    "pagination_next": "Next",
+    "form": {
+      "title": "Write a Review",
+      "rating_label": "Rating",
+      "title_label": "Review Title",
+      "title_placeholder": "Summarize your experience",
+      "content_label": "Review",
+      "content_placeholder": "Share your experience with this product",
+      "name_label": "Name",
+      "name_placeholder": "Your name",
+      "email_label": "Email",
+      "email_placeholder": "your@email.com",
+      "submit": "Submit Review",
+      "submitting": "Submitting...",
+      "success": "Thank you! Your review has been submitted and is pending approval.",
+      "error": "Failed to submit review. Please try again.",
+      "rating_required": "Please select a star rating"
+    },
+    "error": {
+      "load_failed": "Failed to load reviews",
+      "retry": "Try Again"
+    }
   }
 }
